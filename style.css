@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+aside{
+    padding: 5px;
+    text-align: center;
+    max-width: 15%;
+    float: left;
+    width: 100%;
+    height: 100%;
+    background: cadetblue;
+}
+
+.homeBtn{
+    max-width: 200px;
+    margin: 0%;
+}
+
+.FaeKaox button{
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+}
+
+.btnMenu ul{
+    padding: 0;
+    margin: 0;
+}
+
+.btnMenu ul li{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+}
+
+main{
+    padding: 10px;
+    padding-left: 50px;
+    max-width: 85%;
+    width: 100%;
+    height: 100%;
+    float: left;
+    background: khaki;
+}
